@@ -1,0 +1,71 @@
+{
+  "rapper": [
+    {
+      "id": 1,
+      "title": "The best Rapper of Italy",
+      "url": https://www.youtube.com/watch?v=SlPJEzx2N9w
+      "like":  243.908  
+    },
+    {
+      "id": 2,
+      "title": "Ernia",
+      "url": "Miles Davis",
+      "year": 1959,
+      "company": "Columbia"      
+    },
+    {
+      "id": 3,
+      "title": "Synchronicity",
+      "artist": "The Police",
+      "year": 1983,
+      "company": "A&M"      
+    },
+    {
+      "id": 4,
+      "title": "Bach - Goldberg Variations",
+      "artist": "Glenn Gould",
+      "year": 1955,
+      "company": "Sony Classical"      
+    }    
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Stevie Wonder",
+      "birthdate": "13/05/1950"
+    },
+    {
+      "id": 2,
+      "name": "Miles Davis",
+      "birthdate": "26/05/26"
+    },
+    {
+      "id": 3,
+      "name": "Sting",
+      "birthdate": "02/10/1951"
+    },
+    {
+      "id": 4,
+      "name": "Glenn Gould",
+      "birthdate": "25/09/1932"
+    } 
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Motown"
+    },
+    {
+      "id": 2,
+      "name": "Columbia"
+    },
+    {
+      "id": 3,
+      "name": "A&M"
+    },
+    {
+      "id": 4,
+      "name": "Sony Classical"
+    }
+  ]
+}
